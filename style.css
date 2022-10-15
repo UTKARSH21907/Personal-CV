@@ -1,0 +1,45 @@
+body{
+       margin: 0;
+       padding: 2px;
+       background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/f1d0d572816947.5c2bcd89d519b.gif);
+       background-size:cover;
+       background-attachment: fixed;
+       color: red;
+       font-family: 'Viaoda Libre', cursive;
+}
+hr{  
+       border-color:greenyellow; 
+        border-style:dotted none none none;
+        width: 4%;
+        height: 0px;
+      border-width: 5px;
+}
+ h1{
+    color:#6e7582;
+ }
+ h3{
+        color:#025955;
+ }
+ h4{ 
+        color:BLACK;
+        font-size: 2em;
+ }
+ .gif{
+        display:inline-block;
+        background-color: #eba83a;
+        height: 50%;
+     }
+ .hi{
+        display: inline-block;
+     background-color: rgba(245, 171, 144, 0.664);
+     height: 50%;
+ }
+ footer{
+        background-color:black;
+        height: auto;
+        width:auto;
+       }
+       hr{
+              color: red;
+       }
+ 
